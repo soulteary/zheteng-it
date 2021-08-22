@@ -8,6 +8,7 @@
 
 - [Traefik]()
     - [自动申请 HTTPS 证书](./traefik/issue-certs.md)
+    - [快速搭建静态网站](./traefik/nginx-static-web.md)
     - [共享证书给其他服务使用]()
     - [内网使用]()
     - [集群模式]()
