@@ -31,5 +31,5 @@ steps:
     - mkdir upload
     - cp static/welcome/* upload/
     - mv dist upload/runbook
-    - ls -al
+    - cd upload && ls -al
     - coscmd upload -f --delete -rs ./ /
