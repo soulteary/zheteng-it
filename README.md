@@ -1,5 +1,8 @@
-# Runbook
+# 折腾笔记
 
-Open source runbook, built by mdbook.
+一份开源的折腾笔记，分享一些尚未写成博客的内容。
 
-Online address: https://zheteng.wiki or https://suyang.wiki
+在线版：
+
+- https://suyang.wiki
+- https://zheteng.wiki

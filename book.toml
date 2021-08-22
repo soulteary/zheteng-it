@@ -12,6 +12,7 @@ build-dir = "runbook"
 [output.html]
 git-repository-url="https://github.com/soulteary/zheteng-tech"
 edit-url-template="https://github.com/soulteary/zheteng-tech/edit/main/{path}"
+google-analytics = "G-RXQS80RJYV"
 
 [output.html.search]
 enable = false
