@@ -21,7 +21,10 @@
 - [Phabricator]()
 - [NextCloud]()
 - [MinIO]()
-
+- [ESXi]()
+    - [为镜像打网卡驱动拾遗](./esxi/drivers-notes.md)
+- [Proxmox VE]()
+    - [笔记本使用细节](./pve/details-for-laptop.md)
 # 编程语言经典技巧 Tricks
 
 # 参考资料及资料存档 Refs & Archives
