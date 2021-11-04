@@ -29,5 +29,5 @@
 
 # 参考资料及资料存档 Refs & Archives
 
-
+- [快速查阅 Ubuntu 变更日志](./ubuntu/changelogs.md)
 
