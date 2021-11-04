@@ -27,6 +27,8 @@
     - [笔记本使用细节](./pve/details-for-laptop.md)
 # 编程语言经典技巧 Tricks
 
+- [PHP](./php/notes.md)
+- [Docker](./docker/notes.md)
 - [MySQL小技巧](./mysql/notes.md)
 
 # 参考资料及资料存档 Refs & Archives
