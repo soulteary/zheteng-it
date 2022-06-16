@@ -10,7 +10,8 @@
     <meta name="keywords" content="折腾技术,技术文档,示例代码" />
 </head>
 <body>
-    <link rel="stylesheet" href="https://unpkg.zhimg.com/normalize.css@8.0.1/normalize.css">
+    <!-- <link rel="stylesheet" href="https://unpkg.com/normalize.css@8.0.1/normalize.css"> -->
+    <link rel="stylesheet" href="normalize.css">
     <style>
         #main {
             width: 600px;
@@ -56,6 +57,10 @@
             color: #333;
         }
 
+        .icp img{
+            vertical-align: bottom;
+        }
+
         #t-rex-run {
             width: 600px;
             height: 150px;
@@ -78,7 +83,7 @@
         <ul>
             <li>阅读 <a href="https://home-network-note.suyang.wiki/">“家用”网络笔记</a><sup class="update">持续更新</sup> </li>
             <li>阅读 <a href="/runbook/">偷懒的运行手册</a><sup class="update">持续更新</sup> </li>
-            <li>查看 <a href="https://github.com/soulteary/zheteng-it" target="_blank">示例代码</a><sup>等待上传</sup> <li>
+            <li>查看 <a href="https://github.com/soulteary/zheteng-it" target="_blank">示例代码</a><sup>等待上传</sup> </li>
         </ul>
         <p>想阅读整理后的内容？📃</p>
         <ul>
@@ -90,9 +95,14 @@
         <ul>
             <p><a href="https://zhuanlan.zhihu.com/p/56159997" target="_blank">《关于折腾群入群的那些事》</a></p>
         </ul>
-        <p class="icp">备案号: <a href="https://beian.miit.gov.cn" target="_blank" rel="nofollow">晋ICP备13006057号-2</a></p>
+        <p class="icp">
+            备案号: <a href="https://beian.miit.gov.cn" target="_blank" rel="nofollow">晋ICP备13006057号-2</a>
+            <img src="police.png">
+            <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802039590" target="_blank" rel="nofollow">京公网安备 11010802039590号</a>
+        </p>
     </div>
-    <script src="https://unpkg.zhimg.com/t-rex-standalone@1.2.1/t-rex.js" id="t-rex" container="#t-rex-run"></script>
+    <!-- <script src="https://unpkg.com/t-rex-standalone@1.2.1/t-rex.js" id="t-rex" container="#t-rex-run"></script> -->
+    <script src="t-rex.js" id="t-rex" container="#t-rex-run"></script>
 
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-RXQS80RJYV"></script>
     <script>
